@@ -1,5 +1,27 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>	•	Developing a carpooling app tailored for Atlanta. This app focuses on providing reliable and sustainable transportation options for residents and visitors.<br><br>🤝 I’m looking to collaborate on<br><br>	•	Seeking Full time opportunities as I head into my senior year at Georgia State University. It’s a great opportunity for students interested in real-world application development and contributing to a meaningful project.<br><br>🌱 I’m currently learning<br><br>	•	Diving deep into AI concepts, focusing on computer vision technologies like OpenCV. I’m exploring how these technologies can enhance user interactions and improve app functionalities.<br><br>🎙 Ask me about<br><br>	•	Anything related to app development, student life at GSU, and the intersection of transportation and technology. I’m also happy to share insights on balancing school projects with personal development.<br><br>⚡ Fun fact<br><br>	•	Built my first computer from scratch at the age of 15 and have been upgrading it ever since.
+🔭 I’m currently working on<br><br>  
+	• Developing **Tiny Tasks**, a task management app with AI-powered productivity features using **React Native, Firebase, and Google Calendar API**.<br><br>  
+	• Building a **Virtual Therapy Platform** with integrated **video calls, screen sharing, and chat features** to support remote mental health services.<br><br>  
+	• Automating **medical equipment data extraction** using **Crawl4AI** and AI-powered structured data processing.<br><br>  
+
+🤝 I’m looking to collaborate on<br><br>  
+	• **Full-time software development opportunities** as I head into my senior year at **Georgia State University**.<br><br>  
+	• AI-driven projects, **computer vision applications**, and **full-stack development** with **React, Next.js, and Node.js**.<br><br>  
+	• **Open-source contributions** in AI, automation, and web development.<br><br>  
+
+🌱 I’m currently learning<br><br>  
+	• Advancing in **Deep Learning & Big Data Programming**, focusing on **computer vision (OpenCV, PyTorch)** and **LLM-powered applications**.<br><br>  
+	• Enhancing backend development skills using **PostgreSQL, Supabase, and Firebase**.<br><br>  
+	• Exploring **scalable cloud architectures** and **serverless functions**.<br><br>  
+
+🎙 Ask me about<br><br>  
+	• Anything related to **app development, AI/LLMs, and full-stack development**.<br><br>  
+	• Balancing **CS coursework with real-world projects** and industry experience.<br><br>  
+	• How to **optimize AI-driven workflows** and **scale web applications**.<br><br>  
+
+⚡ Fun fact<br><br>  
+	• Built my **first computer from scratch at the age of 15** and have been upgrading it ever since.<br><br>  
+	• **Speedcubing enthusiast** – I can solve a **Rubik’s cube in ~20 seconds**.<br><br>  
 
 
 ## 🌐 Socials:
