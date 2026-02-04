@@ -4,7 +4,7 @@ Atlanta, GA · Founding Engineer (Enterprise AI SaaS)
 https://www.mukhilbaskaran.com/ · https://www.linkedin.com/in/mukhil-baskaran/ · mukhil.baskaran27@gmail.com
 
 ## About
-I’m a software engineer building production AI products end-to-end. Over the past ~year, I’ve been the sole technical owner for an enterprise AI SaaS platform—shipping multi-tenant systems, RAG/agent workflows, and real-time UX from first commit to production alpha.
+I’m a software engineer building production AI products end-to-end. Over the past ~year, I’ve been the sole technical owner for an enterprise AI SaaS platform, shipping multi-tenant systems, RAG/agent workflows, and real-time UX from first commit to production alpha.
 
 ## What I work on
 - **LLM/Agent systems & RAG:** evaluation, latency/quality tradeoffs, retrieval + scoring pipelines
